@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/*.json
+data/*.tmp
+.streamlit/secrets.toml
+.playwright-mcp/
+
+# 테스트 스크린샷
+review-screens/
